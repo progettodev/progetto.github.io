@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progetto.github.io/static/css/main.8f8f749d.css",
+    "main.js": "/progetto.github.io/static/js/main.40f8e021.js",
+    "index.html": "/progetto.github.io/index.html",
+    "main.8f8f749d.css.map": "/progetto.github.io/static/css/main.8f8f749d.css.map",
+    "main.40f8e021.js.map": "/progetto.github.io/static/js/main.40f8e021.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f8f749d.css",
+    "static/js/main.40f8e021.js"
+  ]
+}
